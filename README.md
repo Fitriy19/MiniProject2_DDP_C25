@@ -69,7 +69,7 @@ jika harga yang dimasukkan bukan angka, program akan meminta input harga ulang s
 <img width="735" height="766" alt="Screenshot 2025-09-28 012621" src="https://github.com/user-attachments/assets/07889b64-6974-406c-ac7e-72a35ff85e46" />
 
 #### d. Delete
-Saat user memilih pilihan 4, program akan menampilkan pemberitahuan bahwa user memilih hapus data pelanggan dan langsung menampilkan tabel data pelanggan. kemudian program meminta input no, pelanggan yg ingin dihapus. Jika input berhasil maka program akan langsung menampilkan tabel data pelanggan terbaru.
+Saat user memilih pilihan 4, program akan menampilkan pemberitahuan bahwa user memilih hapus data pelanggan dan langsung menampilkan tabel data pelanggan. kemudian program meminta input no. pelanggan yg ingin dihapus. Jika input berhasil maka program akan langsung menampilkan tabel data pelanggan terbaru.
 <img width="726" height="770" alt="Screenshot 2025-09-28 013237" src="https://github.com/user-attachments/assets/2e73aebe-5654-41c3-a933-2ba3424eeb2e" />
 
 Jika user memasukkan nomor yang tidak ada dalam data, program akan menampilkan pemberitahuan bahwa nomor pelanggan tidak ditemukan.    
