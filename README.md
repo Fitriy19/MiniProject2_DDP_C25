@@ -3,7 +3,7 @@ FITRI YANTI | 2309116016 | SISTEM INFORMASI
 
 ## MANAJEMEN SALON RAMBUT
 ## A. Deskripsi Program
-Manajemen Salon Rambut adalah aplikasi Python sederhana untuk membantu pemilik salon atau admin mengelola data pelanggan dengan mudah dan efisien. Menerapkan konsep CRUD (Create, Read, Update, Delete) dengan menggunakan Conditional Statements, Dictionary, Looping, Functions, dan Error Handling. Terdapat sistem login dan memiliki 2 role pengguna. Dan ada tambahan menggunakan library PrettyTable untuk menampilkan data.
+Manajemen Salon Rambut adalah aplikasi Python sederhana untuk membantu Admin dan Kasir mengelola data pelanggan dengan mudah dan efisien. Menerapkan konsep CRUD (Create, Read, Update, Delete) dengan menggunakan Conditional Statements, Dictionary, Looping, Functions, dan Error Handling. Terdapat sistem login dan memiliki 2 role pengguna. Dan ada tambahan menggunakan library PrettyTable untuk menampilkan data.
 
 ## B. Flowchart
 <img width="2168" height="2935" alt="minpro_2 drawio" src="https://github.com/user-attachments/assets/f56e47bc-3937-4902-ac39-fbe2b0835a71" />
