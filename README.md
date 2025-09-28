@@ -39,7 +39,6 @@ Jika username atau password yang dimasukkan user salah, program akan menampilkan
 Jika user memasukkan pilihan jawaban bukan diantara (1-5), program akan menampilkan pemberitahuan bahwa pilihan tidak valid, kemudian program meminta untuk menekan enter untuk kembali ke menu admin.
 <img width="732" height="513" alt="Screenshot 2025-09-28 014252" src="https://github.com/user-attachments/assets/019371c4-2b5c-427d-bc61-c602655c415a" />
 
-
 #### a. Read
 Saat user memilih pilihan 1, program akan menampilkan pemberitahuan bahwa anda memilih lihat data pelanggan kemudian akan langsung menampilkan tabel data pelanggan.
 <img width="791" height="554" alt="Screenshot 2025-09-28 004822" src="https://github.com/user-attachments/assets/db78889a-525a-4293-8f3e-47ceb29ca141" />
@@ -47,14 +46,12 @@ Saat user memilih pilihan 1, program akan menampilkan pemberitahuan bahwa anda m
 Jika tabelnya kosong, maka program akan menampilkan pemberitahuan bahwa data pelanggan belum ada.
 <img width="800" height="350" alt="Screenshot 2025-09-28 211757" src="https://github.com/user-attachments/assets/0d7975f4-e016-4a3a-a6f6-22b9f0346929" />
 
-
 #### b. Create
 Saat user memilih pilihan 2, program akan menampilkan pemberitahuan bahwa Anda memilih tambah data pelanggan, kemudian program akan meminta input nama pelanggan, layanan yang dipilih, dan harga layanannya. Jika input berhasil maka program akan langsung menampilkan tabel data pelanggan terbaru.
 <img width="797" height="713" alt="Screenshot 2025-09-28 005104" src="https://github.com/user-attachments/assets/b6b0ff78-4622-4c53-b740-052c17fcf0ca" />
 
 Jika harga yang dimasukkan bukan angka, program akan meminta input harga ulang sampai harga yang diisi user tersebut berupa angka. Baru kemudian program akan menampilkan tabel data pelanggan yang terbaru. jika semua input berhasil.
 <img width="734" height="725" alt="Screenshot 2025-09-28 005659" src="https://github.com/user-attachments/assets/ad892c2b-6bb6-45f7-af60-9a333cf7c8e9" />
-
 
 #### c. Update
 Saat user memilih pilihan 3, program akan menampilkan pemberitahuan bahwa Anda memilih ubah data pelanggan dan langsung menampilkan tabel data pelanggan. kemudian program akan meminta input nomor pelanggan yang ingin diubah, layanan baru, dan harga baru. Jika input berhasil maka program akan langsung menampilkan tabel data pelanggan terbaru.
@@ -68,7 +65,6 @@ Jika nomor yang dimasukkan user bukan angka, program akan menampilkan pemberitah
 
 jika harga yang dimasukkan bukan angka, program akan meminta input harga ulang sampai harga yang diisi user tersebut berupa angka. Baru kemudian program akan menampilkan tabel data pelanggan yang terbaru. jika semua input berhasil.
 <img width="735" height="766" alt="Screenshot 2025-09-28 012621" src="https://github.com/user-attachments/assets/07889b64-6974-406c-ac7e-72a35ff85e46" />
-
 
 #### d. Delete
 Saat user memilih pilihan 4, program akan menampilkan pemberitahuan Anda memilih hapus data pelanggan dan langsung menampilkan tabel data pelanggan. kemudian program meminta input nama pelanggan yg ingin dihapus. Jika input berhasil maka program akan langsung menampilkan tabel data pelanggan terbaru.
@@ -84,7 +80,6 @@ Jika nomor yang dimasukkan user bukan angka, program akan menampilkan pemberitah
 Saat user memilih pilihan 5, program akan menampilkan pemberitahuan bahwa Anda memilih keluar dari menu admin dan program akan meminta menekan enter untuk kembali ke menu utama.
 <img width="731" height="257" alt="Screenshot 2025-09-28 013850" src="https://github.com/user-attachments/assets/435a0a57-f104-4259-b5bb-99f723fcf83f" />
 
-
 ### 2. Menu Kasir
 Saat user menjalankan progam maka tampilan awalnya akan menampilkan judul yaitu "MANAJEMEN SALON RAMBUT", dan beberapa pilihan yang bisa dipilih, yaitu sebagai 1. admin, 2. kasir, dan 3. keluar.
 
@@ -97,14 +92,12 @@ Jika username atau password yang dimasukkan user salah, program akan menampilkan
 Jika user memasukkan pilihan jawaban bukan diantara (1-3), program akan menampilkan pemberitahuan bahwa pilihan tidak valid, kemudian program meminta untuk menekan enter untuk kembali ke menu kasir.
 <img width="731" height="243" alt="Screenshot 2025-09-28 021049" src="https://github.com/user-attachments/assets/67d26dad-74cf-4ced-960f-56ac21461004" />
 
-
 #### a. Read
 Saat user memilih pilihan 1, program akan menampilkan pemberitahuan bahwa anda memilih lihat data pelanggan kemudian akan langsung menampilkan tabel data pelanggan.
 <img width="730" height="446" alt="Screenshot 2025-09-28 020041" src="https://github.com/user-attachments/assets/58625b6d-95fc-4244-a30b-d0a22553c158" />
 
 Jika tabelnya kosong, maka program akan menampilkan pemberitahuan bahwa data pelanggan belum ada.
 <img width="795" height="311" alt="Screenshot 2025-09-28 211853" src="https://github.com/user-attachments/assets/069c91c6-5602-4e93-a7e5-8cee39744877" />
-
 
 #### b. Create
 Saat user memilih pilihan 2, program akan menampilkan pemberitahuan bahwa Anda memilih tambah data pelanggan, kemudian program akan meminta input nama pelanggan, layanan yang dipilih, dan harga layanannya. Jika input berhasil maka program akan langsung menampilkan tabel data pelanggan terbaru.
@@ -113,11 +106,9 @@ Saat user memilih pilihan 2, program akan menampilkan pemberitahuan bahwa Anda m
 Jika harga yang dimasukkan bukan angka, program akan meminta input harga ulang sampai harga yang diisi user tersebut berupa angka. Baru kemudian program akan menampilkan tabel data pelanggan yang terbaru. jika semua input berhasil.
 <img width="732" height="694" alt="Screenshot 2025-09-28 020715" src="https://github.com/user-attachments/assets/13d17723-6332-4707-bcbc-4355e6a52fd7" />
 
-
 #### c. Keluar
 Saat user memilih pilihan 3, program akan menampilkan pemberitahuan bahwa Anda memilih keluar dari menu kasir dan program akan meminta menekan enter untuk kembali ke menu utama.
 <img width="735" height="209" alt="Screenshot 2025-09-28 020938" src="https://github.com/user-attachments/assets/4ed47eac-f9cc-4e27-9883-60e8ed562541" />
-
 
 ### 3. Keluar dari Menu Utama
 Saat user memilih pilihan 3, program akan menampilkan pemberitahuan bahwa Anda memilih keluar dari Menu Utama dan program akan langsung berhenti.
@@ -125,7 +116,6 @@ Saat user memilih pilihan 3, program akan menampilkan pemberitahuan bahwa Anda m
 
 Jika user memasukkan pilihan jawaban bukan diantara (1-3), program akan menampilkan pemberitahuan bahwa pilihan tidak valid, kemudian program meminta untuk menekan enter untuk kembali.
 <img width="729" height="465" alt="Screenshot 2025-09-28 021459" src="https://github.com/user-attachments/assets/53135cc2-9299-4f1d-9c40-17a11dc336be" />
-
 
 ### Tambahan:
 Setelah setiap proses, program akan meminta pengguna menekan Enter agar hasil output bisa dibaca dengan jelas sebelum kembali ke menu utama.
