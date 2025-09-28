@@ -108,7 +108,7 @@ Saat user memilih pilihan 2, program akan menampilkan pemberitahuan bahwa user m
 
 <img width="727" height="574" alt="Screenshot 2025-09-28 020308" src="https://github.com/user-attachments/assets/dc6e6321-9a99-430d-9f33-3620ec4c0ef6" />
 
-Jika harga yang dimasukkan bukan angka, program akan meminta input harga ulang sampai harga yang diisi user tersebut berupa angka. Baru kemudian program akan menampilkan tabel data pelanggan yang terbaru. jika semua input berhasil.
+Jika harga yang dimasukkan bukan angka, program akan meminta input harga ulang sampai harga yang diisi user tersebut berupa angka. Baru kemudian program akan menampilkan tabel data pelanggan yang terbaru jika semua input berhasil.
 <img width="732" height="694" alt="Screenshot 2025-09-28 020715" src="https://github.com/user-attachments/assets/13d17723-6332-4707-bcbc-4355e6a52fd7" />
 
 #### c. Keluar
